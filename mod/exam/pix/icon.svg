@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+    <!-- Kağıt -->
+    <rect x="4" y="2" width="12" height="16" rx="1" fill="#FFFFFF" stroke="#2C3E50" stroke-width="1"/>
+    <!-- Çizgiler (kağıt üzerindeki satırlar) -->
+    <path d="M6 5H14" stroke="#2C3E50" stroke-width="0.5"/>
+    <path d="M6 7H14" stroke="#2C3E50" stroke-width="0.5"/>
+    <path d="M6 9H14" stroke="#2C3E50" stroke-width="0.5"/>
+    <path d="M6 11H14" stroke="#2C3E50" stroke-width="0.5"/>
+    <path d="M6 13H14" stroke="#2C3E50" stroke-width="0.5"/>
+    <!-- Onay işaretleri -->
+    <rect x="6" y="4.5" width="2" height="2" rx="0.5" fill="#1ABC9C"/>
+    <path d="M6.5 5.5L7 6L7.5 5" stroke="#FFFFFF" stroke-width="0.5"/>
+    <rect x="6" y="6.5" width="2" height="2" rx="0.5" fill="#F1C40F"/>
+    <path d="M6.5 7.5L7 8L7.5 7" stroke="#FFFFFF" stroke-width="0.5"/>
+    <rect x="6" y="8.5" width="2" height="2" rx="0.5" fill="#E74C3C"/>
+    <path d="M6.5 9.5L7 10L7.5 9" stroke="#FFFFFF" stroke-width="0.5"/>
+    <!-- Kalem -->
+    <path d="M14 6L20 18H18L12 6H14Z" fill="#3498DB"/>
+    <path d="M14 6L12 6L13 4L15 4L14 6Z" fill="#F39C12"/>
+</svg>
